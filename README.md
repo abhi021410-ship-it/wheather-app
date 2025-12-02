@@ -26,6 +26,7 @@ Built using **HTML, CSS, jQuery**, and the **OpenWeather API via RapidAPI**.
 - **CSS** – light blue background and simple styling  
 - **jQuery (Ajax)** – API call and DOM updates  
 - **OpenWeather13 API (RapidAPI)** – live weather data
+<img width="712" height="669" alt="Screenshot 2025-12-02 101055" src="https://github.com/user-attachments/assets/90d2d0cb-cfc9-4e84-ad0a-c4bc31deeffc" />
 
 ---
 
@@ -33,4 +34,4 @@ Built using **HTML, CSS, jQuery**, and the **OpenWeather API via RapidAPI**.
 
 ```text
 index.html   # Contains HTML, CSS (in <style>), and JS (in <script>)
-<img width="712" height="669" alt="Screenshot 2025-12-02 101055" src="https://github.com/user-attachments/assets/1fc642a3-a732-4f8d-ab6b-4371e9fa5972" />
+
