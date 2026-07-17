@@ -35,3 +35,11 @@ Built using **HTML, CSS, jQuery**, and the **OpenWeather API via RapidAPI**.
 ```text
 index.html   # Contains HTML, CSS (in <style>), and JS (in <script>)
 
+## 👨‍💻 Author
+
+**M. Abhiram Reddy**
+
+B.Tech – Artificial Intelligence & Data Science
+
+- GitHub: https://github.com/abhi021410-ship-it
+- LinkedIn: https://www.linkedin.com/in/abhiram-reddy-7470b6344/
